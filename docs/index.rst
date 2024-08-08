@@ -1,11 +1,18 @@
-# Bienvenue dans la documentation
+Welcome to JAI Project's documentation!
+=======================================
 
-Bienvenue dans la documentation de mon projet.
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
-## Chapitre 1
+   introduction
+   installation
+   usage
+   api
 
-Voici du contenu pour le chapitre 1.
+Indices and tables
+==================
 
-## Chapitre 2
-
-Voici du contenu pour le chapitre 2.
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
